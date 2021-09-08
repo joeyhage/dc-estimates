@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-session
+Flask-SQLAlchemy
+Werkzeug
+sqlalchemy-access
+simplejson
+python-jose
+requests
